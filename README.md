@@ -8,7 +8,7 @@ This is the **Next.js** frontend for the **Todo List App**, styled with **Tailwi
 
 ```bash
 git clone <repo-url>
-cd <todo-frontend>
+cd todo-frontend
 ```
 
 ### 2. Install Dependencies
@@ -38,7 +38,7 @@ npm run dev
 Start the Frontend:
 
 ```bash
-cd <todo-frontend>
+cd todo-frontend
 npm run dev
 ```
 
