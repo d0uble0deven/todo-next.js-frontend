@@ -31,7 +31,7 @@ Start the Backend:
 
 ```
 bash
-cd <todo-backend>
+cd todo-backend
 npm run dev
 ```
 
